@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorPrimaryLight">#ffffff</color>
+
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="player_background">#dddcdb</color>
+    <color name="lucio_textview_color">#99dddcdb</color>
+
+    <color name="player_page_text_viewcolor">#10000000</color>
+
+    <color name="player_page_1">#37000000</color>
+    <color name="player_page_2">#3c000000</color>
+
+    <color name="toolbar_1">#ee090d1d</color>
+    <color name="background_color_1">#dd000000</color>
+
+    <color name="background_color_1_dark">#00000c0d</color>
+    <color name="background_color_1_light">#e9b8c1ff</color>
+    <color name="background_color_4">#dfff9e2b</color>
+
+
+    <color name="background_grey_1">#75525252</color>
+    <color name="background_grey_2">#71d0d0d0</color>
+    <color name="background_grey_3">#e6bdbdbd</color>
+    <color name="background_grey_4">#3d595959</color>
+    <color name="background_grey_5">#fc2d248f</color>
+    <color name="background_grey_6">#737fc6</color>
+    <color name="background_grey_7">#c6858585</color>
+    <color name="background_grey_8">#dddcdb</color>
+
+
+    <color name="background_white2">#7979ff96</color>
+    <color name="background_white3">#7cff4949</color>
+    <color name="background_white4">#adc5c5c5</color>
+    <color name="background_white">#d0ffffff</color>
+    <color name="logo_description">#494b4d</color>
+    <color name="ow_orange">#c3f99e1a</color>
+    <color name="nav_bg">#caffffff</color>
+    <color name="nav_grey1">#e043484c</color>
+
+</resources>

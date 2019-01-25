@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home"/>
+
+         <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_code_black_24dp"
+            android:title="About" />
+
+    </group>
+
+    <item android:title="Tier 1">
+        <menu>
+    <group android:checkableBehavior="single"
+        android:title="Tier 1">
+
+        <item
+            android:id="@+id/nav_brigitte"
+            android:icon="@drawable/nav_image_brigitte"
+            android:title="Brigitte" />
+
+        <item
+            android:id="@+id/nav_reinhart"
+            android:icon="@drawable/nav_image_rein"
+            android:title="Reinhart" />
+
+        <item
+            android:id="@+id/nav_hanzo"
+            android:icon="@drawable/nav_image_hanzo"
+            android:title="Hanzo" />
+
+        <item
+            android:id="@+id/nav_junkrat"
+            android:icon="@drawable/nav_image_junkrat"
+            android:title="Junkrat" />
+
+        <item
+            android:id="@+id/nav_mercy"
+            android:icon="@drawable/nav_image_mercy"
+            android:title="Mercy" />
+
+    </group>
+    </menu>
+    </item>
+
+    <item android:title="Tier 2">
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_soldier"
+                    android:icon="@drawable/nav_image_soldier"
+                    android:title="Soldier 76" />
+
+                <item
+                    android:id="@+id/nav_zen"
+                    android:icon="@drawable/nav_image_zen"
+                    android:title="Zenyatta" />
+
+                <item
+                    android:id="@+id/nav_zarya"
+                    android:icon="@drawable/nav_image_zarya"
+                    android:title="Zarya" />
+
+                <item
+                    android:id="@+id/nav_pharah"
+                    android:icon="@drawable/nav_image_pharah"
+                    android:title="Pharah" />
+
+            </group>
+        </menu>
+    </item>
+
+
+    <item android:title="Tier 3">
+        <menu>
+            <group android:checkableBehavior="single"
+                android:title="Tier 3">
+
+                <item
+                    android:id="@+id/nav_wb"
+                    android:icon="@drawable/nav_wb"
+                    android:title="Wrecking Ball" />
+
+                <item
+                    android:id="@+id/nav_lucio"
+                    android:icon="@drawable/nav_image_lucio"
+                    android:title="Lucio" />
+
+                <item
+                    android:id="@+id/nav_roadhog"
+                    android:icon="@drawable/nav_image_roadhog"
+                    android:title="Roadhog" />
+
+                <item
+                    android:id="@+id/nav_widow"
+                    android:icon="@drawable/nav_image_widow"
+                    android:title="Widowmaker" />
+
+                <item
+                    android:id="@+id/nav_dva"
+                    android:icon="@drawable/nav_image_dva"
+                    android:title="D.va" />
+
+                <item
+                    android:id="@+id/nav_moira"
+                    android:icon="@drawable/nav_image_moira"
+                    android:title="Moira" />
+
+                <item
+                    android:id="@+id/nav_genji"
+                    android:icon="@drawable/nav_image_genji"
+                    android:title="Genji" />
+
+                <item
+                    android:id="@+id/nav_mcCree"
+                    android:icon="@drawable/nav_image_mccree"
+                    android:title="McCree" />
+
+                <item
+                    android:id="@+id/nav_ana"
+                    android:icon="@drawable/nav_image_ana"
+                    android:title="Ana" />
+
+                <item
+                    android:id="@+id/nav_reaper"
+                    android:icon="@drawable/nav_image_reaper"
+                    android:title="Reaper" />
+
+                <item
+                    android:id="@+id/nav_tracer"
+                    android:icon="@drawable/nav_image_tracer"
+                    android:title="Tracer" />
+
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Tier 4">
+        <menu>
+            <group android:checkableBehavior="single"
+                android:title="Tier 4">
+
+                <item
+                    android:id="@+id/nav_winston"
+                    android:icon="@drawable/nav_image_winston"
+                    android:title="Winston" />
+
+                <item
+                    android:id="@+id/nav_doomfist"
+                    android:icon="@drawable/nav_image_doomfist"
+                    android:title="Doomfist" />
+
+                <item
+                    android:id="@+id/nav_orisa"
+                    android:icon="@drawable/nav_image_orisa"
+                    android:title="Orisa" />
+
+                <item
+                    android:id="@+id/nav_mei"
+                    android:icon="@drawable/nav_image_mei"
+                    android:title="Mei" />
+
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Tier 5">
+        <menu>
+            <group android:checkableBehavior="single"
+                android:title="Tier 5">
+
+                <item
+                    android:id="@+id/nav_sombra"
+                    android:icon="@drawable/nav_image_sombra"
+                    android:title="Sombra" />
+
+                <item
+                    android:id="@+id/nav_torb"
+                    android:icon="@drawable/nav_image_torb"
+                    android:title="Torbjorn" />
+
+                <item
+                    android:id="@+id/nav_symmetra"
+                    android:icon="@drawable/nav_image_sym"
+                    android:title="Symmetra" />
+
+                <item
+                    android:id="@+id/nav_bastion"
+                    android:icon="@drawable/nav_image_bastion"
+                    android:title="Bastion" />
+
+            </group>
+        </menu>
+    </item>
+
+
+
+</menu>

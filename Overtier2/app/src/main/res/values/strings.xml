@@ -1,0 +1,2076 @@
+<resources>
+    <string name="app_name">Overtier</string>
+
+    <string name="software_mission">"Provide a non profit, community influenced tier list featuring the 28 heroes of Overwatch"
+        "\n\nEach hero will be updated as patch changes occur"</string>
+
+    <string name="sources">Along with current community discrepancies, Meta Bomb remains the primary source</string>
+
+    <string name="contact_info">For inquiries please contact davidguido@litlabproductions.com
+    </string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+
+    <string name="ana_ability_1">Shoots darts that restore health to allies of deal ongoing damage to enemies.</string>
+    <string name="ana_ability_2">Fire a dart from your sidearm, rendering an enemy unconscious.</string>
+    <string name="ana_ability_3">Toss a bionic bomb that deals damage to enemies of heals allies in a small radius.</string>
+    <string name="ana_ability_4">Combat boost, causing an ally to deal more damage and take less damage from enemy attacks.</string>
+
+    <string name="bastion_ability_1">Passive Damage Resistance</string>
+    <string name="bastion_ability_2">Recon Mode. Fully mobile, equipped with a medium range sub-machine gun</string>
+    <string name="bastion_ability_3">Sentry Mode. Stationary powerhouse equipped with gatling gun</string>
+    <string name="bastion_ability_4">Transform between two primary combat modes</string>
+    <string name="bastion_ability_5">Restore Health. Cannot fire weapons while the repair process is in effect</string>
+    <string name="bastion_ability_6">Tank Mode. Extend wheeled treads and a powerful long-range cannon</string>
+
+    <string name="brigitte_ability_1">Melee weapon with an extended range, enabling a strike of multiple enemies with a single swing.</string>
+    <string name="brigitte_ability_2">Deploy a frontal energy barrier to absorb a limited amount of damage.</string>
+    <string name="brigitte_ability_3">Once Barrier Shield is deployed, dash forward to stun an enemy.</string>
+    <string name="brigitte_ability_4">Throws your flail a long distance, dealing damage and knocking an enemy away.</string>
+    <string name="brigitte_ability_5">Throw a Repair Pack that can heal an ally. Any healing over that allys maximum health provides them with armor instead. </string>
+    <string name="brigitte_ability_6">When striking an enemy with your flail, all allies within range are healed over time.</string>
+    <string name="brigitte_ability_7">Move faster and provide all nearby allies with armor that lasts until its removed by damage.</string>
+
+    <string name="doomfist_ability_1">Fire a short-range burst from the knuckles of your fist. Ammunition is automatically regenerated over a short time.   </string>
+    <string name="doomfist_ability_2">Generate temporary personal shields when dealing ability damage.</string>
+    <string name="doomfist_ability_3">After charging up, lunge forward and knock an enemy back, dealing additional damage if they impact a wall.</string>
+    <string name="doomfist_ability_4">Leap forward and smash into the ground, knocking nearby enemies toward you.</string>
+    <string name="doomfist_ability_5">Uppercut enemies in front of you into the air.</string>
+    <string name="doomfist_ability_6">Leap into the sky, then crash to the ground, dealing significant damage.</string>
+
+    <string name="dva_ability_1">Continuous, high-damage fire without needing to reload, but slow movement while they’re active.</string>
+    <string name="dva_ability_2">Activate this forward-facing targeting array to shoot incoming projectiles out of the air.</string>
+    <string name="dva_ability_3">Launch into the air, momentum carrying you forward. Turn, change directions or barrel through enemies, knocking them back.</string>
+    <string name="dva_ability_4">Eject from mech and set its reactor to explode, dealing massive damage to nearby opponents.</string>
+    <string name="dva_ability_5">While outside of mech, continue the fight with a mid-range automatic blaster.</string>
+    <string name="dva_ability_6">Call down a fresh mech and return to the fray.</string>
+
+    <string name="genji_ability_1">Thanks to cybernetic abilities, climb walls and perform jumps in mid-air.</string>
+    <string name="genji_ability_2">Loose three deadly throwing shuriken in a straight quick succession.</string>
+    <string name="genji_ability_3">Alternatively, throw shuriken in a wider spread.</string>
+    <string name="genji_ability_4">Dart forward, slashing with your katana and passing through foes in your path. Eliminating a target instantly enabling the use of this ability again.</string>
+    <string name="genji_ability_5">With lightning-quick swipes of your sword, reflect any oncoming projectiles and send them rebounding toward enemies.</string>
+    <string name="genji_ability_6">Brandish your lethal katana for a brief period of time.</string>
+
+    <string name="hanzo_ability_1">Climb any vertical surface.</string>
+    <string name="hanzo_ability_2">Fire an arrow at your target.</string>
+    <string name="hanzo_ability_3">Launch an arrow that contains a sonar tracking device. Any enemy within its detection radius is visibly marked.</string>
+    <string name="hanzo_ability_4">Shoot a fragmenting arrow that ricochets off walls and objects to strike multiple targets at once.</string>
+    <string name="hanzo_ability_5">Summons a Spirit Dragon which travels through the air in a line. It passes through walls in its way.</string>
+
+    <string name="junkrat_ability_1">Lob grenades a significant distance, blowing up upon impact.</string>
+    <string name="junkrat_ability_2">Your deranged sense of humor persists past your death. If killed, drop several live grenades.</string>
+    <string name="junkrat_ability_3">Place one of your homemade Concussion Mines. Trigger it to damage enemies or propel yourself through the air.</string>
+    <string name="junkrat_ability_4">Toss out a giant, metal-toothed trap. Should an enemy wander too close, it clamps on, injuring and immobilizing them.</string>
+    <string name="junkrat_ability_5">Rev up a motorized tire bomb and send it rolling across the battlefield. Climbs over walls and obstacles.</string>
+
+    <string name="lucio_ability_1">Hit enemies with sonic projectiles.</string>
+    <string name="lucio_ability_2">Knock back enemies with a blast of sound.</string>
+    <string name="lucio_ability_3">Continuously energizes allied players. Switch between two songs : one amplifies movement speed, while the other regenerates health.</string>
+    <string name="lucio_ability_4">Increase the volume on your speakers, boosting the effects of your songs.</string>
+    <string name="lucio_ability_5">Ride the wall at a slight angle, allowing you to acsend the wall.</string>
+    <string name="lucio_ability_6">Brief protective shield around anyone whos in your immediate vicinity.</string>
+
+    <string name="mccree_ability_1">Fire off a round from your trusty six-shooter.</string>
+    <string name="mccree_ability_2">Fan the Peacekeepers hammer to swiftly unload the entire cylinder.</string>
+    <string name="mccree_ability_3">Dive in the direction your moving, effortlessly reloading your Peacekeeper in the process.</string>
+    <string name="mccree_ability_4">Heave a blinding grenade that explodes shortly after it leaves your hand. The blast staggers enemies in a small radius.</string>
+    <string name="mccree_ability_5">Take a few precious moments to aim; when ready, shoot every enemy in your line of sight.</string>
+
+    <string name="mei_ability_1">Unleash a concentrated, short-range stream of frost. Damage, slow, and ultimately freeze enemies in place.</string>
+    <string name="mei_ability_2">Use your blaster to shoot icicle-like projectiles at medium range.</string>
+    <string name="mei_ability_3">Instantly surround yourself with a block of thick ice, ignoring damage and healing. Cannot move or use abilities.</string>
+    <string name="mei_ability_4">Generate an enormous ice wall that obstructs lines of sight, stops movement, and blocks attacks.</string>
+    <string name="mei_ability_5">Deploy a weather-modification drone. Enemies caught in the blizzard are damaged, slowed, and ultimately frozen in place.</string>
+
+    <string name="mercy_ability_1">Engage one of two beams that connect to an ally. Either restore health or increase damage.</string>
+    <string name="mercy_ability_2">Propelled by your Valkyrie suit, slow the speed of your descent from great heights.</string>
+    <string name="mercy_ability_3">Shoot a round from your sidearm. Its best reserved for emergency personal defense.</string>
+    <string name="mercy_ability_4">Fly towards a targeted ally, allowing you to reach them quickly and provide assistance in crucial moments.</string>
+    <string name="mercy_ability_5">Radiate restorative power, bringing nearby dead allies back into the fight with full health.</string>
+
+    <string name="moira_ability_1">Shoot a dart that restores health to allies of deal ongoing damage to enemies.</string>
+    <string name="moira_ability_2">Right hand fires a long-range beam weapon that saps enemies health, healing Moira.</string>
+    <string name="moira_ability_3">Launch a rebounding biotic sphere. Choose between a regeneration or decay effect.</string>
+    <string name="moira_ability_4">Quickly teleport a short distance while invulnerable to damage.</string>
+    <string name="moira_ability_5">Channel a long-range beam that both heals allies and bypasses barriers to damage her enemies.</string>
+
+    <string name="orisa_ability_1">Automatic projectile cannon delivering sustained damage, but slowing your movement while firing.</string>
+    <string name="orisa_ability_2">Launch a graviton charge which can be detonated, slowing nearby enemies and pulling them towards the explosion.</string>
+    <string name="orisa_ability_3">Temporarily reduce damage taken, and become immune to action-impairing effects.</string>
+    <string name="orisa_ability_4">Throw out a stationary barrier that can protect you and allies from enemy fire.</string>
+    <string name="orisa_ability_5">Deploy a device to increase the damage inflicted by allies within its line of sight by 50%.</string>
+
+
+    <string name="pharah_ability_1">Launch rockets that deal significant damage in a wide blast radius.</string>
+    <string name="pharah_ability_2">Propelled by your suits thrusters, soar high into the air.</string>
+    <string name="pharah_ability_3">Loose a wrist rocket that knocks back any enemies it strikes.</string>
+    <string name="pharah_ability_4">Direct a continuous salvo of mini-rockets to destroy groups of enemies.</string>
+    <string name="pharah_ability_5">Hover in mid-air.</string>
+
+    <string name="reaper_ability_1">Steal health from enemies as you damage them.</string>
+    <string name="reaper_ability_2">Tear enemies apart with twin shotguns.</string>
+    <string name="reaper_ability_3">Turn to a shadow for a short period, becoming immune to damage and gaining the ability to walk through enemies. </string>
+    <string name="reaper_ability_4">After marking a destination, disappear and reappear at that location.</string>
+    <string name="reaper_ability_5">In a blur of of motion, empty both Hellfire Shotguns at breakneck speed, dealing massive damage.</string>
+
+    <string name="rein_ability_1">Deal punishing damage in a wide arc with every swing.</string>
+    <string name="rein_ability_2">Project a broad, forward-facing energy barrier, absorbing substantial damage.</string>
+    <string name="rein_ability_3">Charge forth in a straight line, pinning the first enemy in your path.</string>
+    <string name="rein_ability_4">Whip your rocket hammer forward, unleashing a flaming projectile at toward enemies.</string>
+    <string name="rein_ability_5">Forcefully slam your rocket hammer onto the ground in front of you, knocking down and damaging enemies.</string>
+
+    <string name="roadhog_ability_1">Fire short-range blasts of shrapnel with a wide spread.</string>
+    <string name="roadhog_ability_2">Alternatively, launch a shrapnel ball that detonates farther away, scattering metal fragments from the point of impact.</string>
+    <string name="roadhog_ability_3">Restore a chunk of your health over a brief period of time.</string>
+    <string name="roadhog_ability_4">Hurl your chain at a target; if it catches, yank them into close range.</string>
+    <string name="roadhog_ability_5">Crank out a stream of shrapnel that knocks back enemies.</string>
+
+    <string name="soldier_ability_1">Your rifle remains particularly steady while unloading fully-automatic pulse fire.</string>
+    <string name="soldier_ability_2">Tint rockets spiral out of your pulse rifle in a single burst, exploding into a small radius.</string>
+    <string name="soldier_ability_3">Rush ahead in a burst of speed, ending only apon cancelation.</string>
+    <string name="soldier_ability_4">Plant a biotic emitter on the ground, restoring health to any teammates inside its radius.</string>
+    <string name="soldier_ability_5">Pinpoint targeting visor "locks" your aim to the closest threat to the cross-hairs.</string>
+
+    <string name="sombra_ability_1">Detect critically injured enemies through walls. This effect becomes active on an enemy if they fall below half health.</string>
+    <string name="sombra_ability_2">Fully-automatic machine pistol fires in a short-range spread.</string>
+    <string name="sombra_ability_3">Hack enemies to temporarily stop them from using their abilities, or first aid kits, making them useless to opponents. </string>
+    <string name="sombra_ability_4">Become invisible for a short period of time, during which your speed is boosted considerably.</string>
+    <string name="sombra_ability_5">Toss out a translocator beacon. She can instantly return to the beacons location while its active</string>
+    <string name="sombra_ability_6">Discharge electromagnetic energy, destroying enemy barriers, shields and hacking all opponents caught in the blast.</string>
+
+    <string name="sym_ability_1">Emit a short-range beam that homes in on a nearby enemy. Deals continuous damage that increases the longer its connected. </string>
+    <string name="sym_ability_2">Release a charged energy ball that deals high damage.</string>
+    <string name="sym_ability_3">Set up a small turret. Automatically fires speed-reducing blasts at the nearest enemy within range.</string>
+    <string name="sym_ability_4">Project a moving barrier that absorbs damage as it travels forward.</string>
+    <string name="sym_ability_5">Place a teleporter exit pad at her current location. Connects it to a teleporter entry pad at your teams starting point.</string>
+    <string name="sym_ability_6">Deploy a wide-radius generator that provides increased shielding to your entire team.</string>
+
+    <string name="torb_ability_1">Collect scrap to gain resources.</string>
+    <string name="torb_ability_2">Fire rivets at long range.</string>
+    <string name="torb_ability_3">Eject molten metal in a short, close-range burst.</string>
+    <string name="torb_ability_4">Build, upgrade and repair turrets. In a pinch, it can also be swung as a weapon.</string>
+    <string name="torb_ability_5">Construct an enemy-tracking autocannon.</string>
+    <string name="torb_ability_6">Deploy an armor upgrade; either you or your allies can pick it up to absorb some damage.</string>
+    <string name="torb_ability_7">Gain a significant amount of armor. Attack, build, and repairs turrets far faster than normal.</string>
+
+    <string name="tracer_ability_1">Rapid-fire both of your pistols.</string>
+    <string name="tracer_ability_2">Zip horizontally through space in the direction your moving, reappearing several yards away. Stores 3 charges. </string>
+    <string name="tracer_ability_3">Bound backward in time, returning health, ammo and position to precisely where you were a few seconds before.</string>
+    <string name="tracer_ability_4">Lob a large bomb that adheres to any surface or unfortunate opponent it lands on.</string>
+
+    <string name="widow_ability_1">Versatile sniper rifle. Ideal for scope-aimed shots at distant targets.</string>
+    <string name="widow_ability_2">Your rifle fires in fully-automatic mode at medium range.</string>
+    <string name="widow_ability_3">Launch a hook towards the location your aiming. When the hook connects, your quickly drawn towards it.</string>
+    <string name="widow_ability_4">Adhere a swiftly-arming venom mine to nearly any surface. When triggered, inflict poison gas to all enemies in the vicinity.</string>
+    <string name="widow_ability_5">Your recon visor allows you to see the heat signatures of your targets through walls and objects</string>
+
+    <string name="winston_ability_1">Your weapon fires a short-range barrage.</string>
+    <string name="winston_ability_2">Lunge through the air, dealing significant damge and staggering nearby enemies apon landing.</string>
+    <string name="winston_ability_3">Extend a bubble-shaped field that absorbs damage unttil its destroyed.</string>
+    <string name="winston_ability_4">Embrace your animal nature, signifuicantly boosting health and allowing quciker jums and only melee attacks.</string>
+
+    <string name="wb_ability_1">Automatic assault cannons tear apart threats at medium range.</string>
+    <string name="wb_ability_2">Launch a grappling claw, enabling you to anchor to an area and swing from it.</string>
+    <string name="wb_ability_3">Roll a medium distance to a nearby location.</string>
+    <string name="wb_ability_4">Temporary personal shields absorb damage, providing stronger defenses if more opponents are nearby.</string>
+    <string name="wb_ability_5">Slam onto the ground below, damaging enemies and launching them upward.</string>
+    <string name="wb_ability_6">Deploy a field of long-lasting proximity mines which explode on contact with enemies.</string>
+
+    <string name="zarya_ability_1">Your mighty Particle Cannon unleashes a short-range beam of destructive energy.</string>
+    <string name="zarya_ability_2">Alternatively, you can lob an explosive charge to strike multiple opponents.</string>
+    <string name="zarya_ability_3">Emit a personal barrier, shielding you from damage. Damage enhances your weapons damage and the width of its beam.</string>
+    <string name="zarya_ability_4">Surround a teammate with an energy barrier that absorbs fire and also boosts the power of your Particle Cannon.</string>
+    <string name="zarya_ability_5">Launch a gravity bomb that draws in enemy combatants and deals damage while theyre trapped.</string>
+    <string name="zarya_ability_6">Damage blocked increases Particle Cannon damage.</string>
+
+
+    <string name="zen_ability_1">Project destructive energy orbs individually.</string>
+    <string name="zen_ability_2">Rapid-fire a volley of orbs after a few seconds spent gathering power.</string>
+    <string name="zen_ability_3">Cast an orb over a targeted ally. While maintaining its line of sight, the orb slowly restores their health.</string>
+    <string name="zen_ability_4">Cast an orb over a targeted enemy. While maintaining its line of sight, the orb amplifies the amount of damage they receive.</string>
+    <string name="zen_ability_5">Enter a state of heightened existence. Your immune to damage, move twice as fast, and automatically restore nearby allies health.</string>
+    <string name="title_activity_frag_ana_patch">FragAnaPatch</string>
+
+
+
+    <string name="ana_patch">
+
+    "<b><u>May 22, 2018</u></b>"
+
+"\t\t<b>Biotic Rifle</b>"
+
+"- Projectiles will now pass through allies with full health"
+"- Ammo increased from 10 to 14"
+
+"<b>Developer Comment:</b>"
+"<i>\"These changes should help Ana when she is trying to land clutch heals in the middle of a big
+        fight. Allies that do not need healing will no longer potentially block shots meant for
+        teammates that do need it. Increasing her magazine size makes it less likely that Ana will
+        be forced into a reloading in the middle of an important fight.\"</i>"
+
+
+    "<b><u>November 16, 2017</u></b>"
+
+"\t\t<b>Biotic Rifle</b>"
+
+"- Damage increased from 60 to 70"
+
+"<b>Developer Comment:</b>"
+"<i>\"Ana has been outshined by other supports lately. Boosting her damage will help her defend
+        herself and make her more threatening to the enemy team.\"</i>"
+
+
+   "<b><u>March 21, 2017</u></b>"
+
+"\t\t<b>Biotic Rifle</b>"
+
+"- Damage decreased from 80 to 60"
+
+"<b>Developer Comment:</b>"
+"<i>\"Ana\’s kit has several strong components, which makes her difficult to replace. Reducing her damage output will make her less threatening on attack and reduce her dueling capabilities.\"</i>"
+
+
+   "<b><u>February 28, 2017</u></b>"
+
+"\t\t<b>New Hero Option: Nano Boost Sensitivity</b>"
+
+"- Allows players to adjust Nano Boost’s targeting sensitivity"
+
+
+   "<b><u>January 24th, 2017</u></b>"
+
+"\t\t<b>Biotic Grenade</b>"
+
+"- Effect duration has been reduced from 5 seconds to 4 seconds"
+"- Healing boost on allies has been decreased by 50%"
+
+"<b>Developer Comment:</b>"
+"<i>\"The healing boost from Anas Biotic Grenade was providing too much healing, especially
+        when used on targets with large health pools.\"</i>"
+
+
+   "<b><u>November 15th, 2016</u></b>"
+
+"\t\t<b>General</b>"
+
+"- Dealing damage to things other than players (like Torjborn\'s turret or Symmetra\'s teleporter)
+        no longer charges ultimate abilities"
+"- Ultimate costs have been increased by 25% for all heroes"
+
+"<b>Developer Comment:</b>"
+"<i>\"Game-changing ultimate abilities were coming up a bit too frequently. This change helps keep
+        them in check while still allowing them to be powerful.\"</i>"
+
+
+"\t\t<b>Nano Boost</b>"
+
+"- No longer increases move speed"
+
+"<b>Developer Comment:</b>"
+"<i>\"The increased speed from Ana\’s Nano Boost made the ability feel unstoppable and forced Ana players to select targets that could really take advantage of the speed boost. Removing the speed boost means that Ana has a reason to apply Nano Boost to a larger variety of heroes, and enemies can fend off the attack more easily.\"</i>"
+
+
+   "<b><u>October 11th, 2016</u></b>"
+
+"\t\t<b>General</b>"
+
+"- Heroes hit by Ana\'s Nano Boost have a new voice line that informs other players"
+
+
+"\t\t<b>Hero Balance Update</b>"
+
+"\t\t\t<b>Nano Boost</b>"
+
+"- Ultimate cost has been increased by 20%"
+
+
+"\t\t\t<b>Biotic Grenade</b>"
+
+"- Radius has been increased from 3 to 4 meters"
+
+"<b>Developer Comment:</b>"
+"<i>\"So far, we haven\'t seen any indication that Ana is too strong overall, but her ultimate charges a little too fast, especially considering the impact it can have on a match. Also, her Biotic Grenades are getting a small boost to help her hit multiple targets.\"</i>"
+
+
+   "<b><u>September 30th, 2016</u></b>"
+
+"\t\t<b>Heroes</b>"
+
+"Smoothed the animation during Ana’s zoom-release transition"
+
+
+   "<b><u>September 1st, 2016</u></b>"
+
+"\t\t<b>General</b>"
+
+"- When activating the "Needs healing" communication while targeting a teammate, Ana, Lucio, Mercy, and Zenyatta will now tell allies to group up to receive healing. A marker will also appear above the player\'s head, allowing teammates to locate the healer more quickly"
+
+
+   "<b><u>July 26, 2016</u></b>"
+
+"\t\t<b>Hero Balance Updates</b>"
+
+"\t\t\t<b>Biotic Rifle</b>"
+
+"- Rate of fire increased by 20%"
+"- Magazine size increased from 8 to 10"
+
+"<b>Developer Comment:</b>"
+"<i>\"While Ana has been very well received, she was showing to be a little bit weaker overall. In addition to helping her feel better to play, these changes should also increase her healing and damage output.\"</i>"
+
+
+"\n\n\n"
+    </string>
+
+    <string name="lucio_patch" formatted="false">
+
+    "<b><u>May 3, 2018</u></b>"
+
+"\t\t<b>Wall Ride</b>"
+
+"- Wall riding is less likely to be interrupted along a single surface"
+"- Can now go around corners (both outside corners, and inside corners) without having to leave the
+   wall"
+"- Can now land back on the same wall after leaping away, provided his leap takes him far enough
+   away from the original jumping off point"
+"- Added a minimum time that the jump key must be held before Lúcio can ride around corners"
+
+"\t\t<b>Soundwave</b>"
+
+"- No longer consumers ammo"
+"- Can now be used while reloading"
+
+"<b>Developer Comment:</b>"
+"<i>\"Wall Ride has been significantly overhauled to allow it to function more smoothly across more
+        areas of every map. Lucio players should instantly notice a huge improvement in where and
+        how Wall Ride can be used. In addition, Sonic Amplifier\’s Soundwave ability was
+        unnecessarily controlled by both a cooldown and an ammo cost, so we\’re removing the ammo
+        cost.\"</i>"
+
+
+    "<b><u>November 16, 2017</u></b>"
+
+"- Lucio now has an effect above his head to indicate which song he\'s playing in spectator mode"
+
+
+    "<b><u>October 17, 2017</u></b>"
+
+"\t\t<b>Wall Ride</b>"
+
+"- The speed boost that Lucio receives after completing a wall ride has been increased by 65%"
+
+"<b>Developer Comment:</b>"
+"<i>\" A recent bug fix slowed Lucio\’s Wall Ride. This change compensates for the reduced speed.\"</i>"
+
+
+   "<b><u>April 11, 2017</u></b>"
+
+"\t\t<b>Sonic Amplifier</b>"
+
+"- Damage increased by 25%"
+"- Projectile speed increased from 40 to 50"
+"- Alternate fire now considers vertical orientation when knocking targets back"
+
+
+"\t\t<b>Crossfade</b>"
+
+"- Area of effect radius has been decreased from 30 meters to 10 meters"
+
+
+"\t\t\t<b>Heal Song</b>"
+
+"- Healing-per-second has been increased by 30% (also applies to Lucio\'s Amp It Up ability)"
+"- Self-healing has been reduced by 25%"
+
+
+"\t\t<b>Wall Ride</b>"
+
+"- Movement speed increased by 20% when wall riding"
+"- Lucio now receives a burst of speed when leaping off a wall"
+
+
+"<b>Developer Comment:</b>"
+"<i>\"Lucio has often felt like a must-pick due to his raw healing output and the versatility of
+        providing a speed bonus to your entire team. The goal of these changes is to keep those
+        elements feeling strong, but making them harder to apply to everyone on your team at all times.
+        The end result is that he should feel stronger with teams that he can stay close to but not as
+        strong when on teams with heroes that are often spread out (such as Pharah, Widow, Genji, etc).
+        Much of Lucio\’s character power was tied up in his large passive auras, which caused other
+        elements of his kit to be weakened over time in an attempt to balance him. Now that his auras
+        are more focused it will allow them to be much stronger and allow Lucio to be more active in his role.\"</i>"
+
+   "<b><u>January 24th, 2017</u></b>"
+
+"\t\t<b>New Hero Option: Allow Backwards Wall Ride</b>"
+
+"- When enabled, allows Lucio to start wall riding while moving backwards."
+
+
+   "<b><u>November 15, 2016</u></b>"
+
+"\t\t<b>Amp It Up</b>"
+
+"- Healing per second has been decreased by 10%"
+
+"<b>Developer Comment:</b>"
+"<i>\"Lucio\’s overall healing output has always been on par with (or even higher) than Overwatch\’s
+        other healers, and his other benefits made him an almost mandatory pick.\"</i>"
+
+
+   "<b><u>September 1st, 2016</u></b>"
+
+"\t\t<b>Amp It Up</b>"
+
+"- The boosting of movement speed has been decreased by 30% (from a 100% increase to a 70% increase)"
+
+"<b>Developer Comment:</b>"
+"<i>\"Thanks to Lucio\'s speed increase, he was almost a must pick in every lineup.\"</i>"
+"\n\n\n"
+</string>
+
+    <string name="winston_patch" formatted="false">
+
+    "<b><u>November 16, 2017</u></b>"
+
+"\t\t<b>Barrier Projector</b>"
+
+"- Now displays a health bar"
+
+"<b>Developer Comment:</b>"
+"<i>\"This change will help both Winston\’s allies and enemies know how much more damage his shield
+        can absorb from oncoming attacks.\"</i>"
+
+
+   "<b><u>March 21, 2017</u></b>"
+
+"\t\t<b>Barrier Projector</b>"
+
+"- Ability cooldown now starts when the barrier is placed, instead of when it ends"
+
+"<b>Developer Comment:</b>"
+"<i>\"This change should help Winston do what he does best: distract the enemy team and block damage.\"</i>"
+
+
+   "<b><u>February 28, 2017</u></b>"
+
+"- Critical hit volume reduced by 15%"
+
+"<b>Developer Comment:</b>"
+"<i>\"Winston\'s head hit volume was just abnormally big, making him take more damage than he otherwise
+        should. This change brings it more in line with other heroes.\"</i>"
+
+    </string>
+
+    <string name="rein_patch" formatted="false">
+
+    "<b><u>September 19, 2017</u></b>"
+
+"\t\t<b>Barrier Field</b>"
+
+"- Holding primary fire while your shield is active now allows you to rotate the camera"
+
+
+"<b>Developer Comment:</b>"
+"<i>\"Developer Comments: This change gives Reinhardt more situational awareness while using his
+        shield, allowing him to keep an eye on the battlefield while still protecting his team.\"</i>"
+"- A new Movement Relative to Camera During Barrier Free Look option can be found under Settings,
+        Controls. Simply select Reinhardt from the dropdown menu. This allows players to change
+        the way Reinhardt moves when Barrier Shield is active and players are controlling the
+        third-person camera movement"
+
+
+   "<b><u>July 27, 2017</u></b>"
+
+"\t\t<b>Rocket Hammer</b>"
+
+"- Swing speed increased by 10%"
+
+"<b>Developer Comment:</b>"
+"<i>\"In the last update, Reinhardt’s Rocket Hammer had an issue that allowed players with higher latency to swing faster. We fixed this bug, which suddenly made the swing speed feel too slow, so we’re compensating by increasing his standard swing speed. During this process, we also found and fixed a few bugs with Rocket Hammer’s hit registration. Overall, the hammer should feel much better.\"</i>"
+
+
+   "<b><u>May 23, 2017</u></b>"
+
+"\t\t<b>Earthshatter</b>"
+
+"- Effective height has been lowered from 3 meters to 2 meters"
+"- The height threshold of objects that Earthshatter can "climb" has been lowered from 3 meters to 2 meters, making Earthshatter less likely to climb tall objects as it moves along the ground."
+
+"<b>Developer Comment:</b>"
+"<i>\"Earthshatter tended to climb unexpectedly high, frequently hitting targets that were significantly above the ground. These changes help the ability stay more grounded.\"</i>"
+
+    </string>
+
+    <string name="moira_patch" formatted="false">
+
+    "<b><u>April 10, 2018</u></b>"
+
+"\t\t<b>Biotic Grasp</b>"
+
+"- Transparency increased the closer you are to a target"
+
+"\t\t<b>Coalescence</b>"
+
+"- Now becomes more transparent the closer its visual effects are to a player’s camera"
+
+"\t\t<b>Fade</b>"
+
+"- Transparency increased the closer you are to a target"
+
+"<b>Developer Comment:</b>"
+"<i>\"Due to issues with visibility, we have made most of Moira\’s visual effects fade away the
+        closer they are to the camera. We have also made modifications to Coalescence to greatly
+        increase the ability for foes and allies alike to see through it when facing it.\"</i>"
+
+
+</string>
+
+    <string name="soldier_patch" formatted="false">
+
+    "<b><u>July 24, 2018</u></b>"
+
+"\t\t<b>Heavy Pulse Rifle</b>"
+
+"- Minimum damage at max range increased from 30% to 50%."
+
+
+   "<b><u>May 23, 2017</u></b>"
+
+"\t\t<b>Heavy Pulse Rifle</b>"
+
+"- Bullet damage decreased from 20 to 19"
+"- The height threshold of objects that Earthshatter can "climb" has been lowered from 3 meters to 2 meters, making Earthshatter less likely to climb tall objects as it moves along the ground."
+
+"<b>Developer Comment:</b>"
+"<i>\"76 is in a much better place lately, but his damage output was making him a must pick, compared to similar roles.\"</i>"
+
+   "<b><u>November 15, 2016</u></b>"
+
+"\t\t<b>Heavy Pulse Rifle</b>"
+
+"- Bullet damage increased from 17 to 20"
+
+"- Maximum bullet spread increased from 2.2 to 2.4"
+
+"<b>Developer Comment:</b>"
+"<i>\"Soldier: 76\’s damage felt a little low when compared to similar heroes. This increase affects
+        both his normal fire and his ultimate.\"</i>"
+
+
+   "<b><u>September 1st, 2016</u></b>"
+
+"\t\t<b>Heavy Pulse Rifle</b>"
+
+"- Bullet spread now happens more quickly when unloading fully-automatic pulse fire"
+
+"- Significantly increased bullet spread recovery time"
+
+"<b>Developer Comment:</b>"
+"<i>\"These changes will make burst-firing feel more reliable and increase his effectiveness at longer ranges.\"</i>"
+
+        "\n\n\n"
+    </string>
+
+    <string name="doomfist_patch" formatted="false">
+
+    "<b><u>June 26, 2018</u></b>"
+
+"\t\t<b>Meteor Strike</b>"
+
+"- Bonus movement speed increased from 150% to 200%"
+
+"\t\t<b>The Best Defense…</b>"
+
+"- Shield gain increased from 30 to 35 for normal abilities"
+
+"<b>Developer Comment:</b>"
+"<i>\"The increased movement speed on Meteor Strike gives Doomfist new options in how and where to
+        deploy it. His passive is also being increased, allowing him to survive more often when
+        diving into enemies\"</i>"
+
+
+    "<b><u>February 27, 2018</u></b>"
+
+"\t\t<b>Hand Cannon</b>"
+
+"- Ammo recovery rate increased from 0.8 seconds to 0.65 seconds per bullet"
+
+"<b>Developer Comment:</b>"
+"<i>\"This change will help Doomfist more consistently be able to use his weapon as part of his
+        combos.\"</i>"
+
+
+    "<b><u>February 8, 2018</u></b>"
+
+"\t\t<b>Hand Cannon</b>"
+
+"- Damage reduced from 11 to 6"
+"- Number of bullets fired increased from 6 to 11"
+"- Spread pattern made more consistent"
+
+"<b>Developer Comment:</b>"
+"<i>\"We have made a lot of progress with Doomfist\’s movement in recent patches but we wanted to
+        revisit his Hand Cannon. While the damage per bullet has been lowered, the number of
+        bullets he fires per Hand Cannon shot has been increased which makes his overall damage
+        output unchanged. Overall, these changes will help his Hand Cannon feel much more
+        consistent.\"</i>"
+
+
+        "\n\n\n"
+    </string>
+
+    <string name="reaper_patch" formatted="false">
+
+   "<b><u>April 10, 2018</u></b>"
+
+"\t\t<b>Death Blossom</b>"
+
+"- Reloads Hellfire Shotguns after use"
+
+"\t\t<b>Wraith Form</b>"
+
+"- Move speed bonus increased from 25% to 50%"
+"- You can now cancel the ability by pressing the Shift or Primary Fire hotkey"
+
+"<b>Developer Comment:</b>"
+"<i>\"These changes help Reaper use Wraith Form more consistently as an escape, but they also open
+        up new options, such as chasing down key targets.\"</i>"
+
+
+    "<b><u>February 8, 2018</u></b>"
+
+"\t\t<b>Death Blossom</b>"
+
+"- Now fires at players behind barriers"
+
+"<b>Developer Comment:</b>"
+"<i>\"Previously, Reaper\’s Death Blossom would target barriers but not the players hiding behind
+        them. This change will make it more effective against shields and consistent with how other
+        auto-target abilities work (e.g. McCree’s Deadeye, Symmetra’s Sentry Turret).\"</i>"
+
+
+   "<b><u>July 27, 2017</u></b>"
+
+"\t\t<b>Shadow Step</b>"
+
+"- Sound effect and VO distance has been reduced by 50%"
+
+"<b>Developer Comment:</b>"
+"<i>\"Even though Shadow Step wasn\'t intended to be used as a way for players to teleport right next to an enemy without their knowledge, the sound effects were audible from distances that made teleportation difficult from nearly anywhere. This change allows Reaper to be a bit more sneaky with his flanking options.\"</i>"
+
+
+   "<b><u>June 20, 2017</u></b>"
+
+"\t\t<b>The Reaping (Passive)</b>"
+
+"- Removed health orbs"
+"- Now regains 20% of all damage done to heroes as health"
+
+"<b>Developer Comment:</b>"
+"<i>\"Reaper\’s old healing passive was useful if you could kill a bunch of enemies in a row. But since enemies needed to be dead for it to work, it wasn\’t very helpful unless the situation was already in your favor. His new passive lets him get immediate benefit from it, especially when fighting Tank heroes, which tend to be larger targets that deal lower damage.\"</i>"
+
+
+   "<b><u>May 23, 2017</u></b>"
+
+"\t\t<b>Wraith Form</b>"
+
+"- Ammo is now entirely refilled when Wraith Form is used"
+
+"<b>Developer Comment:</b>"
+"<i>\"Wraith Form is typically used as an escape ability after firing. This change gives Reaper a fighting chance if an enemy chases him down as he uses it.\"</i>"
+
+        "\n\n\n"
+    </string>
+
+    <string name="mercy_patch" formatted="false">
+
+    "<b><u>January 30, 2018</u></b>"
+
+"\t\t<b>Valkyrie</b>"
+
+"- No longer makes Resurrect instant"
+"- No longer grants a bonus Resurrect charge"
+"- The speed bonus Guardian Angel receives when activating Valkyrie has been decreased by 50%"
+"- Duration reduced from 20 seconds to 15 seconds"
+
+"<b>Developer Comment:</b>"
+"<i>\"Mercy\’s recent Resurrect changes have helped in allowing enemies to have more counter play in
+        dealing with her, but she was able to use Resurrect through Valkyrie enough to largely
+        mitigate the impact of the previous changes. Additionally, we\’re toning back the amount of
+        mobility Valkyrie provides through Guardian Angel and reducing its duration to overall
+        reduce the power of this ability.\"</i>"
+
+
+    "<b><u>November 16, 2017</u></b>"
+
+"\t\t<b>Caduceus Staff</b>"
+
+"- Increased visual readability of Mercy\’s healing and damage boosting beams"
+
+
+"\t\t<b>Resurrect</b>"
+
+"- Cast time increased from 0 seconds to 1.75 seconds"
+"- Mercy\’s movement speed is now reduced by 75% while casting"
+"- Can now be interrupted when Mercy is knocked back, stunned, or hacked
+Valkyrie"
+
+
+"\t\t<b>Valkyrie</b>"
+
+"- While active, Resurrect no longer has a cast time"
+"- While active, casting Resurrect does not reduce Mercy\'s movement speed"
+
+"<b>Developer Comment:</b>"
+"<i>\" We feel that Mercy\’s recent rework has been successful, but her Resurrect ability still
+        feels too strong and frustrating to play against. Now that it has a cast time, enemies are
+        more able to counter the ability. However, Resurrect will cast instantly when Valkyrie is
+        active. This should make her feel powerful when she transforms on the battlefield.\"</i>"
+
+
+    "<b><u>October 17, 2017</u></b>"
+
+"\t\t<b>Guardian Angel</b>"
+
+"- Players can now glide past a targeted ally using the jump key"
+"- Cooldown no longer resets when Resurrect is activated"
+
+
+"\t\t<b>Valkyrie</b>"
+
+"- No longer resets or reduces Resurrection\’s cooldown"
+"- Now gives players a bonus resurrection charge"
+
+"<b>Developer Comment:</b>"
+"<i>\" Valkyrie no longer resets or reduces Resurrect\’s cooldown. Instead, it now provides an extra
+        charge, allowing you to revive an ally even if it is still on cooldown. If the bonus
+        charge hasn\’t been spent when Valkyrie ends, it will be removed.\"</i>"
+
+
+    "<b><u>September 19, 2017</u></b>"
+
+"\t\t<b>Resurrect (Formerly Mercy\'s Ultimate ability)</b>"
+
+"- Ability now targets a single player, instead of every player within a radius"
+"- Radius reduced to 5 meters"
+"- Ability cooldown is 30 seconds"
+"- Mercy is no longer granted invulnerability while Resurrect is active"
+
+
+"\t\t<b>Valkyrie (New Ultimate Ability)</b>"
+
+"- Valkyrie unleashes the full power of Mercy\’s Valkyrie suit, enhancing her weapons and abilities for 20 seconds"
+"- Caduceus Staff: Mercy\'s healing and damage boosts beams now affect all allies near the targeted teammate, and the staff\'s effective range has been extended"
+"- Caduceus Blaster: Now has infinite ammo and increased projectile speed"
+"- Guardian Angel: Increased range and movement speed"
+"- Resurrect: Cooldown will instantly reset when Valkyrie is activated and reduced to 10s after the initial cast"
+"- Hover: Mercy gains the ability to fly freely, at increased movement speed"
+"- Regeneration (Passive): No longer interrupted when Mercy takes damage"
+
+"<b>Developer Comment:</b>"
+"<i>\"Developer Comments: While resurrecting downed allies is a core part of Mercy\’s gameplay, the
+        way her Ultimate functioned was causing a number of problems. It was frustrating to play
+        against, and it incentivized Mercy players to hide away from important battles, instead of
+        taking part in them. This version turns Resurrect into a single target ability. It\’s still
+        an important part of Mercy\’s kit, but plays much better for both Mercy players and her
+        enemies. Valkyrie, her new Ultimate, gives her the opportunity for big game-making plays
+        and opens a number of new options for her.\"</i>"
+
+
+   "<b><u>March 21, 2017</u></b>"
+
+"\t\t<b>Caduceus Staff</b>"
+
+"- The amount of increased damage that\’s done when boosting another player is now tracked under the match statistics and on the Career Profile page"
+
+
+   "<b><u>February 28, 2017</u></b>"
+
+"\t\t<b>Resurrect</b>"
+
+"- While performing a resurrection, Mercy now becomes temporarily invulnerable along with the allies being revived"
+
+
+"\t\t<b>Caduceus Staff</b>"
+
+"- Zenyatta can no longer be targeted when Transcendence is active"
+
+
+"\t\t<b>New Hero Option: Guardian Angel Sensitivity</b>"
+
+"- Allows players to adjust Guardian Angel’s targeting sensitivity"
+
+
+"\t\t<b>New Hero Option: Beam Sensitivity</b>"
+
+"- Allows players to adjust targeting sensitivity on Mercy’s Caduceus Staff beams"
+
+"<b>Developer Comment:</b>"
+"<i>\"Mercy\’s Resurrect has always been very powerful, but it often forces her to sacrifice herself
+        to use it well. There have been changes in the past that attempted to help her in this area,
+        but haven\’t done enough to solve it. This change means that once she uses the ability,
+        she will always survive long enough to be with her team again.\"</i>"
+
+
+   "<b><u>November 15, 2016</u></b>"
+
+"- Passive health regeneration now activates when Mercy avoids taking damage for 1 second (formerly 3 seconds)"
+
+"<b>Developer Comment:</b>"
+"<i>\"This change allows Mercy to survive more easily by evading enemy fire.\"</i>"
+
+
+   "<b><u>September 1st, 2016</u></b>"
+
+"\t\t\t<b>Healing Beam</b>"
+
+"- Healing-per-second has been increased by 20%"
+
+
+"\t\t<b>Resurrect</b>"
+
+"- Resurrected allies will be able to maneuver after 2.25 seconds (reduced from 3 seconds)"
+
+"<b>Developer Comment:</b>"
+"<i>\"Resurrection now allows teammates to jump back into the fight more quickly, which should help
+        Mercy survive after activating her ultimate. Mercy\'s healing is also getting a boost to
+        solidify her role as a strong, single-target healer.\"</i>"
+
+        "\n\n\n"
+    </string>
+
+    <string name="hanzo_patch" formatted="false">
+
+    "<b><u>July 24, 2018</u></b>"
+
+"\t\t<b>Storm Arrows</b>"
+
+"- Duration reduced from 6 to 5 seconds"
+"- Cooldown increased from 8 to 10 seconds"
+
+"<b>Developer Comment:</b>"
+"<i>\"Hanzo\’s new kit has proven to be a bit too powerful, especially his new Storm Arrows ability.
+        We\’re lowering the frequency that he can have this ability available to make it more
+        reasonable to play around.\"</i>"
+
+
+    "<b><u>May 22, 2018</u></b>"
+
+"\t\t<b>Storm Arrows</b>"
+
+"- Damage reduced from 80 to 70"
+
+"<b>Developer Comment:</b>"
+"<i>\"Hanzo\’s Storm Arrows are doing too much damage considering his other changes, such as Lunge
+        and projectile speed. This damage reduction will give Hanzo\’s enemies a more reasonable
+        chance to react and fight against him while using Storm Arrows.\"</i>"
+
+
+    "<b><u>May 3, 2018</u></b>"
+
+"\t\t<b>Storm Bow</b>"
+
+"- Projectile speed increased from 85 to 100"
+
+"\t\t<b>Sonic Arrow</b>"
+
+"- Cooldown decreased from 20 seconds to 12 seconds"
+"- Duration decreased from 10 seconds to 6 seconds"
+"- Radius decreased from 10 meters to 7 meters"
+
+"\t\t<b>New Abilities</b>"
+
+"\t\t<b>Lunge</b>"
+
+"- Press jump while in the air to leap horizontally"
+
+"\t\t<b>Storm Arrows</b>"
+
+"- Replaces his existing Scatter Arrow ability"
+"- Hanzo can now rapidly fire up to 6 arrows that deal reduced damage but are always fire at full
+        powers"
+
+"<b>Developer Comment:</b>"
+"<i>\"The goal of these Hanzo changes is to allow him to have new options and maintain his high
+        damage output, while removing the frustration of fighting against the old Scatter Arrow.
+        Hanzo is now much more mobile with his new Lunge ability, and with the combination of the
+        bow projectile speed increase and the new Storm Arrows ability he can now deal his high
+        damage more consistently than ever before.\"</i>"
+
+
+   "<b><u>May 23, 2017</u></b>"
+
+"- Removed the attack cooldown from Hanzo\’s wall climbing ability, allowing him to engage with enemies immediately after he finishes climbing"
+
+"\t\t<b>Storm Bow</b>"
+
+"- Increase charge speed by 10%"
+"- Charged arrows now maintain their charge after climbing a wall, provided the button is continuously held"
+
+"<b>Developer Comment:</b>"
+"<i>\"Decreasing Hanzo\’s draw time gives him more overall DPS, while also letting him fully charge an arrow and more quickly return to full movement speed when needed. And, like the change to Genji’s wall climbing, this is a quality of life change that will make climbing feel better.\"</i>"
+
+   "<b><u>September 1st, 2016</u></b>"
+
+"- Hanzo will now experience a 30% decrease in speed while aiming (formerly 40%)"
+
+"- Maximum projectile speed has been increased by 30%"
+
+"- Arrow size has been reduced by 33%"
+
+"<b>Developer Comment:</b>"
+"<i>\"Hanzo has the potential to deal a lot of damage, but he can feel really inconsistent, even
+        at a medium distance. By increasing the projectile speed, we\’re extending his reliable range,
+        making it easier to land shots without having to perfectly predict enemy movement.
+        To compensate for the increased projectile speed, we’ve decreased the size of his arrows,
+        meaning his shots now require a bit more accuracy.\"</i>"
+
+        "\n\n\n"
+    </string>
+
+    <string name="dva_patch" formatted="false">
+
+   "<b><u>April 10, 2018</u></b>"
+
+"\t\t<b>Micro Missiles</b>"
+
+"- Explosive damage reduced from 6 to 4"
+
+"\t\t<b>Boosters</b>"
+
+"- Impact damage reduced from 25 to 10"
+
+"<b>Developer Comment:</b>"
+"<i>\"D.Va\’s burst potential is a bit too high, so we\’re reducing the damage of her Micro Missiles
+        and Boosters impact. Prior to this change, each missile dealt 3 impact damage and 6
+        explosive damage. We\’re reducing explosive damage from 6 to 4 but leaving the impact damage
+        the same, the net result being 21% damage reduction.\"</i>"
+
+
+    "<b><u>October 10, 2017</u></b>"
+
+"\t\t<b>Boosters</b>"
+
+"- An option to manually hold down D.Va\’s boosters rather than toggling them has been added under
+        Options, Controls, D.Va"
+
+
+    "<b><u>September 19, 2017</u></b>"
+
+"\t\t<b>Micro Missiles (New Ability)</b>"
+
+"- D.Va fires a barrage of small rockets that detonate on impact, dealing damage in a limited
+        radius around each explosion. These can be fired while D.Va is using any other ability or
+        firing her Fusion Cannons"
+
+
+"\t\t<b>Defense Matrix</b>"
+
+"- Defense Matrix\'s resource meter will now deplete twice as quickly"
+"- Energy regeneration per second has been increased to 12.5% (formerly 10%)"
+
+
+"\t\t<b>Boosters</b>"
+
+"- Fusion Cannons can now be fired while flying"
+
+"<b>Developer Comment:</b>"
+"<i>\"D.Va\’s Defense Matrix uptime has proven to be too strong, but simply reducing it without
+        making other changes would make her too weak (and far less interesting to play). Instead,
+        we\’re adding a new ability and giving her the ability to fire while flying. These changes
+        give D.Va new options while maintaining Defense Matrix\’s ability to shut down big enemy
+        attacks.\"</i>"
+
+
+   "<b><u>February 28, 2017</u></b>"
+
+"\t\t<b>Defense Matrix</b>"
+
+"- Enemy shots no longer need to travel a minimum distance before they can be blocked"
+
+"<b>Developer Comment:</b>"
+"<i>\"Previously, there was a minimum distance a projectile had to travel before it could be
+        destroyed by Defense Matrix. This made it nearly worthless in situations where an enemy
+        was right next to your teammate, such as when Roadhog hooks your ally. This change removes
+        that restriction so Defense Matrix should now reliably destroy projectiles regardless of
+        how far they have traveled.\"</i>"
+
+
+   "<b><u>January 24th, 2017</u></b>"
+
+"- Health increased from 200 to 400"
+"- Armor decreased from 400 to 200"
+
+"\t\t<b>Fusion Cannons</b>"
+
+"- Bullet damage decreased from 3 to 2"
+"- Number of bullets per shot has been increased from 8 to 11"
+
+"<b>Developer Comment:</b>"
+"<i>\"D.Va\’s armor often made her feel like she had no weaknesses, even against heroes that are
+        typically effective against bigger targets (like Reaper). The changes to her primary fire
+        will result in a small overall decrease in damage, but her Fusion Cannons should feel more consistent now.\"</i>"
+
+
+   "<b><u>November 15, 2016</u></b>"
+
+"- Mech health increased to 200 (formerly 100). Armor remains at 400"
+"- Movement speed while firing has been increased by 25%"
+
+"\t\t<b>Call Mech</b>"
+
+"- Ultimate cost has been decreased by 20%"
+
+"<b>Developer Comment:</b>"
+"<i>\"We reduced the cost of the Call Mech ultimate ability to compensate for the increased ultimate
+        cost across all heroes (detailed above). D.Va players shouldn\’t experience a noticeable change.
+        The rest of these changes help D.Va\’s withstand attacks, which will allow her to keep pressuring enemies.\"</i>"
+
+   "<b><u>September 1st, 2016</u></b>"
+
+"\t\t<b>Defense Matrix</b>"
+
+"- After being activated, Defense Matrix will begin regenerating following a 1-second delay (formerly .5 seconds)"
+
+"<b>Developer Comment:</b>"
+"<i>\"Defense Matrix was too efficient when tapped repeatedly, instead of being held. Now, the
+        recovery delay matches the ability cooldown.\"</i>"
+
+        "\n\n\n"
+    </string>
+
+    <string name="orisa_patch" formatted="false">
+
+
+    "<b><u>June 26, 2018</u></b>"
+
+"\t\t<b>Supercharger</b>"
+
+"- Ultimate cost reduced by 15% "
+
+"<b>Developer Comment:</b>"
+"<i>\"Supercharger wasn\'t getting enough use, considering its impact. This change allows Orisa to
+        user her ultimate more aggressively, knowing that she will be able to generate them more
+        easily.\"</i>"
+
+
+    "<b><u>October 10, 2017</u></b>"
+
+"\t\t<b>Supercharger</b>"
+
+"- Can now be interrupted when Orisa is stunned or hacked"
+
+
+
+   "<b><u>August 29, 2017</u></b>"
+
+"\t\t<b>Fusion Driver</b>"
+
+"- Projectile speed increased by 20%"
+
+
+"\t\t<b>Protective Barrier</b>"
+
+"- Barrier size increased by 20%"
+
+"- Barrier shape has been changed to allow for more coverage from enemies that are below the barrier"
+
+"<b>Developer Comment:</b>"
+"<i>\"The projectile speed increase helps Orisa\’s consistency, especially at medium ranges (or further).
+        Her barrier size has been increased to better protect her team, and the new shape makes the shield
+        more effective when it\’s used on slopes or on top of objects (such as a payload).\"</i>"
+
+
+   "<b><u>May 23, 2017</u></b>"
+
+"\t\t<b>Fusion Driver</b>"
+
+"- Damage reduced by 9%"
+
+
+"\t\t<b>Protective Barrier</b>"
+
+"- Cooldown reduced from 12 seconds to 8 seconds"
+
+"<b>Developer Comment:</b>"
+"<i>\"To help Orisa maintain the front line for her team, we\’re reducing the cooldown of her Protective Barrier. This change also helps her reposition the barrier more easily when needed. To compensate for this new defensive strength, we\'re reducing her Fusion Driver\'s damage, as it felt too high.\"</i>"
+
+
+   "<b><u>April 11, 2017</u></b>"
+
+"- The size of Orisa\’s head hitbox has been decreased by 15%"
+
+        "\n\n\n"
+    </string>
+
+    <string name="pharah_patch" formatted="false">
+
+   "<b><u>November 15, 2016</u></b>"
+
+"\t\t<b>Rocket Launcher</b>"
+
+"- Minimum explosion damage has been increased by 13%"
+
+"- Minimum explosion knockback has been decreased to 0%"
+
+
+"\t\t<b>Jump Jets</b>"
+
+"- Lift increased by 35%"
+
+"<b>Developer Comment:</b>"
+"<i>\"These changes will make the explosions from Pharah\’s Rocket Launcher more deadly,
+        so hitting multiple targets should feel better. Her Jump Jets are also getting a
+        boost to increase maneuverability while hovering.\"</i>"
+
+        "\n\n\n"
+    </string>
+
+    <string name="genji_patch" formatted="false">
+
+
+    "<b><u>May 3, 2018</u></b>"
+
+"\t\t<b>Deflect</b>"
+
+"- Hitbox size has been reduced"
+
+"<b>Developer Comment:</b>"
+"<i>\"The hitbox on Genji\’s Deflect was big enough that it would sometimes reflect projectiles that
+        were pretty far away from him. We\’ve tightened up the hitbox, which should solve this
+        problem while still fully protecting him from projectiles that would hit him from the
+        front.\"</i>"
+
+
+    "<b><u>October 10, 2017</u></b>"
+
+"\t\t<b>Dragonblade</b>"
+
+"- No longer interrupted when Genji is stunned or hacked"
+
+
+   "<b><u>May 23, 2017</u></b>"
+
+"- Removed the attack delay from Genji\'s wall climbing ability, allowing him to engage with enemies immediately after he finishes climbing"
+
+"<b>Developer Comment:</b>"
+"<i>\"This is a quality of life change to make wall climbing feel better.\"</i>"
+
+
+   "<b><u>September 1st, 2016</u></b>"
+
+"- Double jump no longer resets when wall climbing"
+
+"\t\t<b>Swift Strike</b>"
+
+"- No longer deals damage to traps like Widowmaker\'s Venom Mine or Junkrat\'s Steel Trap"
+
+"- No longer bypasses Junkrat\'s Steel Trap"
+
+"- No longer interrupts quick melee attacks"
+
+
+"\t\t<b>Dragonblade</b>"
+
+"- Duration of Genji\'s ultimate has been reduced from 8 seconds to 6 seconds"
+
+"<b>Developer Comment:</b>"
+"<i>\"Genji was a little too difficult to pin down, and these changes will balance his speed.
+        Swift Strike no longer cancels the recovery time from a quick melee attack, so players
+        will no longer be able to get a free melee attack before using Swift Strike. Lastly,
+        Dragonblade\'s duration was long enough that it often felt too difficult to reasonably counter.\"</i>"
+
+        "\n\n\n"
+    </string>
+
+    <string name="tracer_patch" formatted="false">
+
+    "<b><u>May 3, 2018</u></b>"
+
+"\t\t<b>Pulse Bomb</b>"
+
+"- Max damage decreased from 400 to 300"
+
+"<b>Developer Comment:</b>"
+"<i>\"Pulse Bomb was too good at killing tanks, who can be easy to stick due to their size. This
+        damage reduction makes it less powerful as a tank-destroyer, while keeping it lethal against
+        most other heroes.\"</i>"
+
+
+    </string>
+
+    <string name="zarya_patch" formatted="false">
+
+   "<b><u>July 27, 2017</u></b>"
+
+"\t\t<b>Graviton Surge</b>"
+
+"- Now disables mobility abilities on all affected targets"
+
+"<b>Developer Comment:</b>"
+"<i>\"In the past, the abilities that allowed heroes to escape Zarya\’s Graviton Surge felt fairly
+            arbitrary. We\’re cleaning this up and increasing Graviton Surge\'s overall power by
+            rendering all movement abilities unusable when an enemy is trapped.\"</i>"
+
+
+   "<b><u>March 21, 2017</u></b>"
+
+"\t\t<b>[XB1, PS4]</b>"
+
+"\t\t\t<b>Particle Barrier</b>"
+
+"- No longer protects Zarya from knockback"
+
+
+"\t\t\t<b>Projected Barrier</b>"
+
+"- No longer protects allies from knockback"
+
+"<b>Developer Comment:</b>"
+"<i>\"This is actually reverting a change that we made a few patches ago, which made players immune
+            to knockbacks if they were hit by an effect from inside her barrier. This had some
+            negative side effects, such as making targets immune to knockbacks from effects that
+            pierce barriers, like Reinhardt\’s charge and Winston\’s Primal Rage punches. Now, these
+            will cause knockback again. This does not affect knockbacks from effects that originate
+            from outside her barriers, such as Pharah\’s Concussive Blast. Those will still be
+            blocked by the barriers, not causing any knockback.\"</i>"
+
+
+   "<b><u>February 28, 2017</u></b>"
+
+"\t\t<b>New Hero Option: Projected Barrier Sensitivity</b>"
+
+"- Allows players to adjust Projected Barrier’s targeting sensitivity"
+
+
+   "<b><u>November 15, 2016</u></b>"
+
+"\t\t<b>Particle Barrier</b>"
+
+"- Power gained from barriers decreased by 20%"
+
+
+"\t\t<b>Projected Barrier</b>"
+
+"- Power gained from barriers decreased by 20%"
+
+"<b>Developer Comment:</b>"
+"<i>\"Considering her potential damage output, Zarya was starting to feel like a mandatory pick in
+        most situations. Rather than reduce her damage output, this change makes achieving her
+        maximum power and damage output slightly more difficult.\"</i>"
+
+        "\n\n\n"
+    </string>
+
+    <string name="zen_patch" formatted="false">
+
+    "<b><u>April 10, 2018</u></b>"
+
+"\t\t<b>Orb of Destruction</b>"
+
+"- Secondary fire rate of fire reduced by 15%"
+
+"<b>Developer Comment:</b>"
+"<i>\"Zenyatta is meant to be able to deal a lot of damage, especially for a support, but his
+        alternate fire burst damage was a bit too high. This change keeps the overall damage the
+        same but lowers the DPS slightly and makes it harder to hit multiple shots at very long
+        ranges.\"</i>"
+
+
+   "<b><u>March 21, 2017</u></b>"
+
+"\t\t<b>Orb of Destruction</b>"
+
+"- Alternate fire cooldown has been reduced from 1 seconds to 0.6 seconds"
+
+"- Weapon spread has been removed"
+
+"<b>Developer Comment:</b>"
+"<i>\"Zenyatta\’s alternate fire often felt too difficult to use due to its long recovery time.
+        This reduction should make it a more viable option. Also, his weapon has always had a very
+        small amount of spread. This wasn\’t enough to change the way he was played, but it would
+        occasionally cause shots to miss that would normally hit their target. Removing this small
+        variance should help him feel more consistent.\"</i>"
+
+
+   "<b><u>February 28, 2017</u></b>"
+
+"\t\t<b>New Hero Option: Harmony Orb Sensitivity</b>"
+
+"- Allows players to adjust Harmony Orb’s targeting sensitivity"
+
+
+"\t\t<b>New Hero Option: Discord Orb Sensitivity</b>"
+
+"- Allows players to adjust Discord Orb’s targeting sensitivity"
+
+
+   "<b><u>September 1st, 2016</u></b>"
+
+"\t\t<b>Orb of Discord</b>"
+
+"- The amount of damage amplified by a target with Orb of Discord has been decreased from 50% to 30%"
+
+
+"\t\t<b>Orb of Destruction</b>"
+
+"- Damage has been increased from 40 to 46"
+
+"<b>Developer Comment:</b>"
+"<i>\"Zenyatta is in a far better place since the last update, but the strength of Orb of Discord
+        has turned him into an almost mandatory pick. These changes reduce Orb of Discord\'s effectiveness,
+        but his damage-dealing potential has been increased. The amount of damage that he delivers
+        should feel largely unaffected by the change.\"</i>"
+
+        "\n\n\n"
+    </string>
+
+    <string name="mcree_patch" formatted="false">
+
+    "<b><u>July 24, 2018</u></b>"
+
+"\t\t<b>Peacekeeper</b>"
+
+"- Minimum damage at max range increased from 30% to 50%."
+
+
+    "<b><u>June 26, 2018</u></b>"
+
+"\t\t<b>Deadeye</b>"
+
+"- Range increased from 70 meters to 200 meters"
+
+"<b>Developer Comment:</b>"
+"<i>\"While McCree\’s Deadeye rarely came into play at 70 meters, we are increasing the range so it
+        cannot be a limiting factor during normal gameplay.\"</i>"
+
+
+    "<b><u>April 10, 2018</u></b>"
+
+"- Added additional voice lines for Lifeguard McCree"
+
+
+   "<b><u>July 27, 2017</u></b>"
+
+"\t\t<b>Flashbang</b>"
+
+"- Stunned targets are now slowed heavily, meaning they\'re less likely to escape while stunned (especially while in the air)"
+
+"<b>Developer Comment:</b>"
+"<i>\"This change will make McCree\'s Flashbang consistent against fast-moving targets like Genji or Lucio.\"</i>"
+
+
+   "<b><u>June 20, 2017</u></b>"
+
+"\t\t<b>Deadeye</b>"
+
+"- Targets now begin locking on after 0.2 seconds, instead of 0.8 seconds"
+"- Damage accumulated over the first 1.0 seconds increased from 20 to 80 (damage per second after the first 1.0 seconds is unchanged)"
+
+"<b>Developer Comment:</b>"
+"<i>\"McCree\’s ultimate can deal a lot of damage if it has a lot of time to build up, but it was often too difficult to get even a small amount of damage out before being stopped or killed. These changes make it more flexible and powerful.\"</i>"
+
+
+   "<b><u>September 1st, 2016</u></b>"
+
+"\t\t<b>Deadeye</b>"
+
+"- Now drains over a .25-second period (instead of displaying a 50% reduction on the ultimate meter
+        when activated and 0% when confirmed)"
+
+"<b>Developer Comment:</b>"
+"<i>\"If players managed to counter or avoid McCree\'s ultimate, it would often regenerate very quickly
+        since only half of the ultimate charge was spent. Now, this ultimate works like every other
+        ultimate that has a duration.\"</i>"
+
+        "\n\n\n"
+    </string>
+
+    <string name="junk_patch" formatted="false">
+
+    "<b><u>May 3, 2018</u></b>"
+
+"\t\t<b>Frag Launcher</b>"
+
+"- Projectile size decreased from 0.3 to 0.2"
+
+"\t\t<b>RIP-Tire</b>"
+
+"- Tire movement speed decreased from 13 to 12"
+
+"<b>Developer Comment:</b>"
+"<i>\"These changes are aimed at lowering some of the most frustrating parts about playing against
+        Junkrat. Decreasing the Frag Launcher\’s projectile size means he will have to aim a bit more
+        carefully to land powerful direct hits and slowing the RIP-Tire\’s movement speed gives his
+        opponents slightly more time to destroy it before it detonates.\"</i>"
+
+
+   "<b><u>January 30, 2018</u></b>"
+
+"\t\t<b>Concussion Mine</b>"
+
+"- Now will deal less damage to targets farther away from the explosion\’s center"
+
+"<b>Developer Comment:</b>"
+"<i>\"Junkrat has been enjoying the flexibility his double-charge Concussion Mine provides, but it
+        has now become a bit too easy to throw out huge bursts of damage in a large area. With this
+        change he can still dish out similar damage but he must now be more accurate with his
+        tosses.\"</i>"
+
+
+   "<b><u>August 29, 2017</u></b>"
+
+"\t\t<b>Concussion Mine</b>"
+
+"- Junkrat can now hold two mines"
+
+
+"\t\t<b>RIP Tire</b>"
+
+"- Tire\'s movement speed has been increased by 30%"
+
+"- There is no longer a time limit when wall climbing"
+
+
+"<b>Developer Comment:</b>"
+"<i>\"Giving the Junkrat the ability to store two concussion mines adds some much-needed
+        flexibility and versatility to his kit, particularly when using the mines for mobility.
+        RIP-Tire\’s damage has always been very good, but it was often difficult to steer the tire
+        into position before it was destroyed. Increasing its speed will allow players to effectively
+        detonate the tire more often and decrease the amount of time that Junkrat is vulnerable while
+        controlling it.\"</i>"
+
+
+
+   "<b><u>March 21, 2017</u></b>"
+
+"\t\t<b>Total Mayhem</b>"
+
+"- Junkrat\'s explosions no longer hurt himself"
+
+"<b>Developer Comment:</b>"
+"<i>\"Previously, Junkrat\’s projectile speed made him difficult to use at long ranges, but the
+        damage he took from his own explosions made him difficult to use at close ranges.
+        This change makes him more effective at close ranges, allowing Junkrat players to explore new strategies.\"</i>"
+
+
+   "<b><u>October 11th, 2016</u></b>"
+
+"\t\t<b>RIP-Tire</b>"
+
+"- Ability now activates more quickly"
+
+"<b>Developer Comment:</b>"
+"<i>\"Junkrat can be an extremely effective hero in the right hands, but RIP-Tire often felt
+        underpowered when compared to his counterparts.\"</i>"
+
+        "\n\n\n"
+    </string>
+
+    <string name="mei_patch" formatted="false">
+
+    "<b><u>July 24, 2018</u></b>"
+
+"\t\t<b>Endothermic Blaster</b>"
+
+"- Removed all damage falloff from her secondary fire projectile"
+
+
+   "<b><u>April 10, 2018</u></b>"
+
+"\t\t<b>Endothermic Blaster</b>"
+
+"- Now pierces through enemies"
+
+"<b>Developer Comment:</b>"
+"<i>\"This change helps Mei combat multiple targets that are clumped up and makes it easier for her
+        to keep freezing a specific target if another enemy gets in the way. This change also helps
+        her ultimate more consistently freeze enemy targets, especially if they are near each other.
+        Note: While her shots now pierce enemies, they still do not pierce barriers such as
+        Reinhardt\’s shield.\"</i>"
+
+
+           "<b><u>February 27, 2018</u></b>"
+
+"\t\t<b>Endothermic Blaster</b>"
+
+"- Freeze (slow) duration increased from 1 second to 1.5 seconds"
+"- Weapon alternate fire ammo cost reduced from 25 to 20"
+
+"<b>Developer Comment:</b>"
+"<i>\"Increasing Mei\’s slow duration helps her freeze targets that are particularly elusive such
+        as Genji or Lucio. Lowering her alternate fire ammo cost allows her to more safely use it
+        without costing her the ability to freeze enemies.\"</i>"
+
+
+   "<b><u>February 28, 2017</u></b>"
+
+"\t\t<b>Cryo-Freeze</b>"
+
+"- Mei can now be targeted by allies while in Cryo-Freeze"
+
+
+   "<b><u>November 15, 2016</u></b>"
+
+"\t\t<b>Blizzard</b>"
+
+"- Ultimate cost has been increased by 15%"
+
+"<b>Developer Comment:</b>"
+"<i>\"Mei\’s ultimate was recently given a much larger radius. Now it\’s coming up too frequently,
+        considering the impact it can have.\"</i>"
+
+
+   "<b><u>September 1st, 2016</u></b>"
+
+"\t\t<b>Blizzard</b>"
+
+"- Projectile now pierces barriers"
+
+"- Radius has been increased from 8 meters to 10 meters"
+
+"<b>Developer Comment:</b>"
+"<i>\"Mei has an interesting toolkit, but her ultimate often felt like it was too difficult to use
+        effectively. Consequently, it felt weak compared to many other ultimate abilities.
+        The freeze effect has been piercing barriers for some time now, but the projectile would
+        still be blocked. Now, you can throw it down exactly where you want it, so it\’s much easier
+        to utilize the full radius effectively.\"</i>"
+
+        "\n\n\n"
+    </string>
+
+    <string name="roadhog_patch" formatted="false">
+
+    "<b><u>August 29, 2017</u></b>"
+
+"\t\t<b>Take a Breather</b>"
+
+"- Can now be used while moving"
+"- Damage taken while healing has been reduced by 50%"
+
+"<b>Developer Comment:</b>"
+"<i>\"These changes help Roadhog be much more aggressive when looking for hook targets or blocking
+        for his team. The combination of these effects significantly increases Roadhog\’s
+        sustainability and survivability.\"</i>"
+
+
+   "<b><u>June 20, 2017</u></b>"
+
+"- Head hitbox size reduced by 20%"
+
+"\t\t<b>Scrap Gun</b>"
+
+"- Bullet damage decreased by 33%"
+"- Fire rate increased by 30%
+"- Clip size increased from 4 to 5
+
+"<b>Developer Comment:</b>"
+"<i>\"Roadhog\’s head was abnormally large compared to similarly-sized characters, so we\’re reducing its size to increase his survivability. The Scrap Gun changes reduce the power of his hook combo and alternate fire burst damage potential while still keeping his DPS roughly the same."</i>"
+
+
+   "<b><u>February 28, 2017</u></b>"
+
+"\t\t<b>Scrap Gun</b>"
+
+"- Spread decreased by 20%"
+
+
+"\t\t<b>Chain Hook</b>"
+
+"- Targets are now pulled to a location 3.5 meters away, up from 2 meters"
+
+"- Cooldown increased from 6 to 8"
+
+"<b>Developer Comment:</b>"
+"<i>\"The Roadhog changes overall reduce the power of his hook a bit, but his gun is now more
+        effective when not using the hook.\"</i>"
+
+
+   "<b><u>January 24th, 2017</u></b>"
+
+"\t\t<b>Chain Hook</b>"
+
+"- Targets are now pulled directly in front of Roadhog (rather than straight to him), except in
+        cases where Roadhog drastically rotates"
+
+"- Hooked targets are now released if they leave Roadhog\’s line of sight before being pulled"
+
+"- Line of sight checks (which determines if targets are hit by the hook) are now done from
+        Roadhog\’s position, rather than the hook’s position"
+
+"<b>Developer Comment:</b>"
+"<i>\"The hook should now feel more consistent for Roadhog players, but it should also feel more
+        reasonable to his enemies, as they cannot be hooked or pulled around corners anymore.\"</i>"
+
+
+   "<b><u>September 1st, 2016</u></b>"
+
+"\t\t<b>Chain Hook</b>"
+
+"- If the hooked target isn\'t in Roadhog\'s line of sight when retracting the hook,
+        they will be moved back to the position where they were originally hooked"
+
+"<b>Developer Comment:</b>"
+"<i>\"This change means that hooked targets will be less likely to slide along walls, potentially
+        ending up in an odd place after they\'ve been reeled in.\"</i>"
+
+        "\n\n\n"
+    </string>
+
+    <string name="torb_patch" formatted="false">
+
+   "<b><u>February 28, 2017</u></b>"
+
+"\t\t<b>Rivet Gun</b>"
+
+"- Ammo is now loaded earlier in the reload animation"
+
+
+"\t\t<b>Build Turret</b>"
+
+"- [CONSOLE] Damage increased from 10 to 12"
+
+"<b>Developer Comment:</b>"
+"<i>\"Like Symmetra, the damage from Torbjorn\’s turrets was also reduced by 30 percent in July.
+        After monitoring his effectiveness, we\’ve decided to give his turret a small boost,
+        restoring about 15 percent of the damage. By contrast, the damage from Torbjorn\’s turret on PC is still 14.\"</i>"
+
+   "<b><u>November 15, 2016</u></b>"
+
+"- Scrap is now automatically generated over time"
+
+"- The amount of scrap collected from a fallen enemy has been decreased by 40%"
+
+"\t\t<b>Forge Hammer</b>"
+
+"- Swing speed increased by 25%"
+
+"- Damage decreased by 27"
+
+"<b>Developer Comment:</b>"
+"<i>\"Armor Packs have always been a powerful tool in Torbjorn\’s arsenal, but it was often difficult
+        to gather enough scrap to give your team a legitimate boost when they needed it. Conversely,
+        if a team held on long enough, the scrap collected from fallen enemies was often able to
+        generate so many armor packs that enemy teams had a difficult time turning the tide.
+        Automatically generating scrap over time helps smooth out these differences and makes
+        Torbjorn more viable. His hammer swing speed was increased to help him construct level
+        2 turrets more quickly.\"</i>"
+
+        "\n\n\n"
+    </string>
+
+    <string name="bastion_patch" formatted="false">
+
+
+    "<b><u>July 24, 2018</u></b>"
+
+"\t\t<b>Configuration: Sentry and Configuration: Recon</b>"
+
+"- Minimum damage at max range increased from 30% to 50%."
+
+
+   "<b><u>March 21, 2017</u></b>"
+
+"<b>Ironclad</b>"
+
+"- [XB1, PS4] Bastion now takes 20% less damage while in Configuration: Sentry or Tank (formerly 35%)
+
+"<b>Developer Comment:</b>"
+"<i>\"After the last update, Bastion became a little too difficult to deal with, so we\’re reducing his new passive to give enemies more opportunities to counter.\"</i>"
+
+
+    "<b><u>February 28, 2017</u></b>"
+
+"\t\t<b>Configuration: Sentry</b>"
+
+"- Reconfiguration time decreased from 1.5 seconds to 1.0 second"
+"- Bullet spread increased by 50%"
+"- Bullet spread is always at maximum (it no longer increases as the weapon is fired)"
+"- Magazine size increased from 200 to 300"
+"- No longer deals critical damage"
+
+
+"\t\t<b>Configuration: Recon</b>"
+
+"- Bullet spread decreased by 25%"
+"- Magazine size increased from 20 to 25"
+
+
+"\t\t<b>Self-Repair</b>"
+
+"- Can now be used while moving"
+"- Now bound to secondary fire (formerly Ability 2)"
+"- No longer interrupted by taking damage"
+"- A new resource meter has been added that depletes while Self-Repair is active and recharges when not in use"
+
+
+"\t\t<b>Configuration: Tank</b>"
+
+"- No longer grants bonus armor"
+
+
+"\t\t<b>New Passive Ability: Ironclad</b>"
+
+"- Bastion takes 35% less damage while in Configuration: Sentry or Tank"
+
+"<b>Developer Comment:</b>"
+"<i>\"The goal of these changes is to move some of Bastion\'s power from Configuration: Sentry to
+        Recon, while keeping its sentry mode a strong option, especially versus tanks and barriers.
+        Overall, Bastion should feel stronger and more flexible with these changes.\"</i>"
+
+        "\n\n\n"
+    </string>
+
+    <string name="sombra_patch" formatted="false">
+
+    "<b><u>July 24, 2018</u></b>"
+
+"\t\t<b>Hack</b>"
+
+"- Can now cancel her reload to use Hack"
+
+"\t\t<b>Translocator</b>"
+
+"- Now lasts indefinitely"
+"- No longer can contest objectives while invisible"
+"- Movement speed buff decreased from +75% to +50%"
+
+"\t\t<b>Stealth</b>"
+
+"- Now lasts indefinitely"
+"- Can now be destroyed (has 5 health)"
+
+"<b>Developer Comment:</b>"
+"<i>\"These changes allow Sombra to more easily play as an infiltrator and scout for her team, as
+        well as give her time to pick and choose when to reveal herself to ambush her
+        enemies.\"</i>"
+
+
+   "<b><u>February 27, 2018</u></b>"
+
+"\t\t<b>EMP</b>"
+
+"- No longer blocked by small objects (e.g. sign posts)"
+
+
+"\t\t<b>Hack</b>"
+
+"- No longer gains ultimate charge from health pack healing"
+"- Cast time reduced from 0.8 seconds to 0.65 seconds"
+"- Now disables the following abilities: Cyber-Agility, Wall Climb, Hover Jets, Heal and Speed
+Boost, Wall Ride, and Angelic Decent."
+
+
+"\t\t<b>Machine Pistol</b>"
+
+"- Machine Pistol spread reduced from 3 to 2.7"
+
+
+"\t\t<b>Opportunist</b>"
+
+"- Enemy health bars are now visible when health drops below 100% (formerly 50%)"
+"- Her ability to detect enemies through walls at 50% or less remains unchanged"
+
+
+"\t\t<b>Translocator</b>"
+
+"- Duration increased from 15 seconds to 20 seconds"
+
+
+"<b>Developer Comment:</b>"
+"<i>\"The goal of these changes for Sombra is to remove the necessity for her teammates to take
+        damage and heal themselves with her hacked heath packs to try to get her ultimate charged
+        up quickly. Her ultimate will now come up less often, but there are more abilities that are
+        disabled by Hack so it is more effective when used. Previously, Opportunist would only
+        activate when an enemy’s health bar dipped below 50% but now the passive will reveal all
+        damaged enemies which should help Sombra identify targets in her line of sight to pick off.
+        Overall these changes should make her more effective and less reliant on her ultimate.\"</i>"
+
+
+        "<b><u>October 10, 2017</u></b>"
+
+"\t\t<b>Hack</b>"
+
+"- Now interrupts the following ultimate abilities: Ana\'s Nano Boost, Orisa\'s Supercharger,
+        Mei\'s Blizzard, Reinhardt\'s Earthshatter, and D.Va\'s Call Mech"
+
+
+
+   "<b><u>March 21, 2017</u></b>"
+
+"\t\t<b>Hack</b>"
+
+"- Sombra\’s teammates can now see hacked healthpacks through walls"
+
+
+"\t\t<b>Stealth</b>"
+
+"- Sound effects and VO distance has been reduced to 15 meters when Sombra enters or exits Stealth"
+
+
+"\t\t<b>Translocator</b>"
+
+"- Cooldown reduced from 6 seconds to 4 seconds"
+
+"<b>Developer Comment:</b>"
+"<i>\"Sombra can be devastating in the right hands, but infiltrating and harassing enemies could
+        often feel difficult. These changes should increase her effectiveness and teamplay.\"</i>"
+
+
+   "<b><u>February 28, 2017</u></b>"
+
+"\t\t<b>New Hero Option: Hack Sensitivity</b>"
+
+"- Allows players to adjust the targeting sensitivity on Sombra\’s Hack ability"
+
+
+   "<b><u>January 24th, 2017</u></b>"
+
+"\t\t<b>Hack</b>"
+
+"- Cooldown has been reduced from 12 seconds to 8 seconds"
+
+"- Time it takes to hack a target has been decreased from 1 second to 0.8 seconds"
+
+"<b>Developer Comment:</b>"
+"<i>\"Sombra often had difficulty hacking enemies, even when she surprised the target.
+        This change should help her execute hacks more easily.\"</i>"
+
+        "\n\n\n"
+    </string>
+
+    <string name="sym_patch" formatted="false">
+
+    "<b><u>June 26, 2018</u></b>"
+
+"\t\t<b>New Abilities</b>"
+
+"\t\t<b>Photon Projector</b>"
+
+"\t\t\t<b>Primary Fire</b>"
+
+"- No longer locks onto targets"
+"- Range increased to 10 meters"
+"- Damage ramping now takes 2 seconds per damage level instead of 1 second"
+"- Damage ramp increased from 30/60/120 to 60/120/180"
+"- Now generates ammo instead of spending it when hitting a barrier"
+
+"\t\t\t<b>Alternate  Fire</b>"
+
+"- No longer pierces targets"
+"- Now explodes on contact"
+"- Projectile speed increased"
+"- Charge up speed increased"
+"- Damage changed to 60 impact / 60 explosive"
+
+"\t\t<b>Sentry Turret</b>"
+
+"- Turret is now placed like a projectile instead of being set in place"
+"- Can hold a max of 3, down from 6"
+"- Can now deploy a max 3, down from 6"
+"- Damage increased"
+"- Amount of slowing effect increased"
+
+"\t\t<b>Teleporter</b>"
+
+"- Can now place the exit up to 25 meters away from Symmetra"
+"- Entrance will automatically be built in front of Symmetra, rather than at her team\’s spawn point"
+"- Lasts 10 seconds"
+"- Health lowered to 300"
+"- More things can teleport through it (e.g. Junkrat’s RIP-Tire)"
+"- Entrance can be destroyed"
+
+"\t\t<b>New Ultimate: Photon Barrier</b>"
+
+"- Deploys a barrier that is big enough to span and cut through an entire map"
+"- Orientation can be changed by pressing the ultimate button again"
+"- Has 5000 health"
+
+"<b>Developer Comment:</b>"
+"<i>\"The goal of these changes is to move Symmetra to her new damage role and make her more
+        flexible and viable across more areas of the game than she was previously. Now that
+        Symmetra is no longer a support hero, she is expected to be able to dish out heavy damage,
+        and these changes allow for her to do so. She should be more powerful and interesting in
+        more team compositions and maps, and she should also be stronger on offense and
+        defense.\"</i>"
+
+
+   "<b><u>February 28, 2017</u></b>"
+
+"\t\t<b>Sentry Turret</b>"
+
+"- [CONSOLE] Damage per second increased from 21 to 25.5"
+
+"<b>Developer Comment:</b>"
+"<i>\"Back in July, the damage per second from Symmetra\’s turrets was reduced by 30 percent.
+        We\’ve been keeping an eye on her over the past few months and decided to restore about
+        15 percent of that damage. On PC, her damage is still 30.\"</i>"
+
+
+   "<b><u>December 13, 2016</u></b>"
+
+"\t\t<b>Photon Barrier (New Ability)</b>"
+
+"- Replaces her existing Photon Shield ability"
+
+"- Generates a large energy barrier in front of Symmetra that blocks enemy fire as it travels forward"
+
+
+"\t\t<b>Shield Generator (New Ultimate Ability Option)</b>"
+
+"- Symmetra\'s Ultimate ability now offers a choice between Teleporter and a new option: Shield Generator"
+
+"- Shield Generator places a device that grants additional shields to allies within its effective
+        radius (regardless of barriers, walls, or obstacles between them and the Shield Generator)"
+
+
+"\t\t<b>Photon Projector (Primary Fire)</b>"
+
+"- Range has been increased from 5 meters to 7 meters"
+
+
+"\t\t<b>Sentry Turret</b>"
+
+"- Turrets that can be carried have been increased from 3 turrets to 6 turrets"
+
+"- Cooldown has been reduced from 12 seconds to 10 seconds"
+
+
+"\t\t<b>Photon Shield</b>"
+
+"- Replaced with the new Photon Barrier ability"
+
+
+"\t\t<b>Teleporter</b>"
+
+"- Health has been decreased from 200 to 50"
+
+"- Shields have been increased from 0 to 350"
+
+"<b>Developer Comment:</b>"
+"<i>\"We wanted to address two main issues with Symmetra. First, on the whole, we felt that she
+        didn\’t feel active enough. Second, due to the nature of her Teleporter, she felt weak in
+        certain situations on different maps and game modes.\"</i>"
+
+        "\n\n\n"
+    </string>
+
+    <string name="widow_patch" formatted="false">
+
+    "<b><u>July 24, 2018</u></b>"
+
+"\t\t<b>Widow\'s Kiss</b>"
+
+"- Now has damage falloff applied on her automatic primary fire (50% at max range)."
+
+
+    "<b><u>August 29, 2017</u></b>"
+
+"\t\t<b>Grappling Hook</b>"
+
+"- Cooldown has been reduced from 12 seconds to 8"
+
+"\t\t<b>Venom Mine</b>"
+
+"- Affected targets are now visible through walls (to you as Widowmaker only)"
+
+"<b>Developer Comment:</b>"
+"<i>\"Widowmaker is extremely powerful in the right hands, but her abilities often felt a little
+        weak. The Grappling Hook cooldown reduction means she is more likely to have it available
+        when she needs to escape. Venom Mine is intended to be an early warning system, uncovering
+        enemies that are attempting to flank her or her team. With this change, she can see enemies
+        when they trigger the mine, even if they\’re on the other side of a wall.\"</i>"
+
+
+   "<b><u>February 28, 2017</u></b>"
+
+"\t\t<b>New Hero Option: Grappling Hook Sensitivity</b>"
+
+"- Allows players to adjust Grappling Hook’s targeting sensitivity"
+
+
+   "<b><u>November 15, 2016</u></b>"
+
+"\t\t<b>Venom Mine</b>"
+
+"- Explosion no longer damages the player who placed the mine"
+
+
+"\t\t<b>Widow\'s Kiss</b>"
+
+"- Charge rate increased by 20%"
+
+"<b>Developer Comment:</b>"
+"<i>\"These changes allow Widowmaker to be more flexible and reactive.\"</i>"
+
+
+   "<b><u>October 11th, 2016</u></b>"
+
+"\t\t<b>Widow\'s Kiss</b>"
+
+"- Scoping-in animation time has been reduced from 0.5 to 0.33 seconds"
+
+"<b>Developer Comment:</b>"
+"<i>\"This change will help Widowmaker acquire new targets more quickly and speed up her
+        reaction time in fast-paced situations.\"</i>"
+
+        "\n\n\n"
+
+    </string>
+
+    <string name="wb_patch" formatted="false">
+
+    </string>
+
+    <string name="bridgette_patch" formatted="false">
+
+    "<b><u>May 22, 2018</u></b>"
+
+"\t\t<b>Rally</b>"
+
+"- Maximum armor per player reduced from 150 to 100"
+
+"\t\t<b>Shield Bash</b>"
+
+"- Cooldown increased from 5 to 6 seconds"
+
+"<b>Developer Comment:</b>"
+"<i>\"Brigitte\’s ultimate is very powerful, especially when it gets stacked up to its maximum value
+        on many allies. This change will reduce the maximum armor value of Rally, but does not
+        reduce the overall amount of armor given by the ability over its duration. This means when
+        used in combat while her allies are taking damage, it should feel about the same, but the
+        lingering effects of the armor should have less of an impact. Her Shield Bash is a very
+        strong ability on a fairly short cooldown, making it difficult for her opponents to play
+        around. Increasing this cooldown allows for more options when battling against her.\"</i>"
+
+
+    "<b><u>May 3, 2018</u></b>"
+
+"\t\t<b>Shield Bash</b>"
+
+"- Cone angle reduced from 90 to 60"
+
+"<b>Developer Comment:</b>"
+"<i>\"When fighting against Brigitte, it often felt like Shield Bash was able to hit players who
+        felt like they were out of its range and should have dodged it. On the flip side, when
+        playing as Brigitte sometimes players would hit the wrong enemy in the middle of a fight.
+        With the cone being reduced, the ability is more accurate to its visual
+        representation.\"</i>"
+
+
+   "<b><u>April 10, 2018</u></b>"
+
+"\t\t<b>Barrier Shield</b>"
+
+"- An option to \“Toggle Barrier\” has been added under Options > Controls > Brigitte"
+
+    </string>
+
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+</resources>

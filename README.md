@@ -12,8 +12,11 @@
 
 ***
 <br><br>
-![ot-logo-1](https://user-images.githubusercontent.com/34845402/131569392-54c9e6db-90cd-400b-bcd7-9b1895a80b2f.png)
-<br><br>
+![ot-logo-2](https://user-images.githubusercontent.com/34845402/131586198-657158bf-7c64-421c-87c2-d70c9fcdc33c.png)
+<br>
+***
+<br>
+
 ### v.1.6.0 ***(July, 2018)***
 
 ![ot-gif](https://user-images.githubusercontent.com/34845402/131566644-22207a95-239d-461d-9a72-4e17a889a3dc.gif)

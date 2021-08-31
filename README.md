@@ -52,6 +52,10 @@
 ![6-11](https://user-images.githubusercontent.com/34845402/131565451-4ede20f1-8ddf-4dbe-a0c7-db9c44a1880b.png)
 <br>
 
+### One Year of Updates!
+#### v.1.1.0 ***(September, 2017)***
+![7-1](https://user-images.githubusercontent.com/34845402/131570623-f55f0a34-7681-4e17-9d94-6109ec5eeecc.png)<br>
+![8-1](https://user-images.githubusercontent.com/34845402/131570627-6138aed4-e8a9-4f12-96bc-0cfb19562e22.png)
 
 ***
 

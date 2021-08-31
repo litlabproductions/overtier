@@ -1,7 +1,7 @@
 # Overtier
 
 ### Android Mobile Application
-#### Seasonal hero list ranking the characters of Overwatch
+#### Seasonal list ranking the heroes of Overwatch
 
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;a [***Lit Lab Production***](https://www.litlabproductions.com)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Built with [Android Studio](https://developer.android.com/studio/) <br><br>

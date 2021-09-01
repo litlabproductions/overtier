@@ -6,7 +6,7 @@
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;a [***Lit Lab Production***](https://www.litlabproductions.com)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Built with [Android Studio](https://developer.android.com/studio/) <br><br>
 ***
-#### Demos of all past verions can be found here:
+#### Demos of all past versions can be found here:
 
 &nbsp;&nbsp;&nbsp;&nbsp;[***www.litlabproductions.com/overtier***](https://www.litlabproductions.com/overtier)
 

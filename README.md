@@ -48,7 +48,7 @@
 ![4-11](https://user-images.githubusercontent.com/34845402/131565448-2314ed4d-88af-49cd-b2c4-262326d5cb57.png)
   * *Each hero page lists character abilities, ability descriptions, health, class, tier and difficulty, as well as three other characters the repepctive hero is strong and weak against*
   * *Selecting another hero from the strong or weak section will open that heroes page*
-  * *Selecting the patch notes button will open the patch notes for this hero* <br><br><br>
+  * *Selecting the patch notes button will open the patch notes for that hero* <br><br><br>
 
 ### Patch Notes
 ![5-11](https://user-images.githubusercontent.com/34845402/131565450-435c8ed2-706e-41dd-a6a0-722f7dbed934.png)

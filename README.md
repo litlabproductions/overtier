@@ -58,6 +58,9 @@
 ![3-11](https://user-images.githubusercontent.com/34845402/131565445-5fdd1223-7256-43d6-a99d-a89b79ecb109.png)
   * *The Hero Selection Page can be accessed at any time by choosing it from the navigation menu or pressing the back button* <br><br><br>
 
+***
+
+<br>
 
 ## One Year of Updates
 ![dloads](https://user-images.githubusercontent.com/34845402/132143473-4a15cea7-ee78-4771-bad3-c5840691c69d.png)
@@ -67,7 +70,7 @@
 ![7-1](https://user-images.githubusercontent.com/34845402/131570623-f55f0a34-7681-4e17-9d94-6109ec5eeecc.png)<br>
 ![8-1](https://user-images.githubusercontent.com/34845402/131570627-6138aed4-e8a9-4f12-96bc-0cfb19562e22.png)
 
-    
+<br><br>
 
 ***
 

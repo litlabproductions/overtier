@@ -19,12 +19,8 @@
 ***
 <br><br>
 ![ot-logo-2](https://user-images.githubusercontent.com/34845402/131586198-657158bf-7c64-421c-87c2-d70c9fcdc33c.png)
-<br>
-***
 <br><br>
 
-![ot-gif](https://user-images.githubusercontent.com/34845402/132142150-81c526e9-8c8b-404f-9b5f-343ea6247de1.gif) <br><br><br><br>
- 
 ## Features
 
 
@@ -57,6 +53,10 @@
 ### Navigation
 ![3-11](https://user-images.githubusercontent.com/34845402/131565445-5fdd1223-7256-43d6-a99d-a89b79ecb109.png)
   * *The Hero Selection Page can be accessed at any time by choosing it from the navigation menu or pressing the back button* <br><br><br>
+
+#### Demo
+![ot-gif](https://user-images.githubusercontent.com/34845402/132142150-81c526e9-8c8b-404f-9b5f-343ea6247de1.gif)
+<br><br><br>
 
 ***
 
